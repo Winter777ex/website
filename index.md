@@ -1,9 +1,22 @@
 ---
-layout: home
+layout: default
 title: Home
 ---
+<div class="banner">
+  <h1>Hello, I'm John Doe</h1>
+  <p>Web Developer | Designer | Creator</p>
+</div>
 
-![Image](Images/bg.webp)
+<div class="profile">
+  <a href="images/profile.jpg" target="_blank">
+    <img src="images/profile.jpg" alt="John Doe" class="profile-image">
+  </a>
+</div>
+
+<div class="info">
+  <p>Welcome to my personal website. I love building creative web experiences. Feel free to explore my work!</p>
+</div>
+
 # Welcome to My Webpage
 
 ## About Me
