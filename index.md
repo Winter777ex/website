@@ -3,6 +3,7 @@ layout: default
 title: My Portfolio
 ---
 
+![title](Images/example.jpg)
 # Welcome to My Portfolio
 
 ## About Me
