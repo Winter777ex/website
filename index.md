@@ -3,8 +3,8 @@ layout: default
 title: Home
 ---
 <div class="banner">
-  <h1>Hello, I'm John Doe</h1>
-  <p>Web Developer | Designer | Creator</p>
+  <h1>Hello, I'm Eric Su</h1>
+  <!-- <p>Web Developer | Designer | Creator</p> -->
 </div>
 
 <div class="profile">
