@@ -10,7 +10,7 @@ title: My Portfolio
 Hello, welcome to my page. I am Eric Su, current high school student. Below are my projects, enjoy your stay!
 
 ## Projects
-- **[Three JS](/https://winter777ex.github.io/website/threeJS.html):** A description of the project and its features.
+- **[Three JS](website/threeJS.html):** A description of the project and its features.
 - **Project Two:** Another project description with a link to more details.
 
 ## Contact
