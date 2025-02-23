@@ -8,8 +8,8 @@ title: Home
 </div>
 
 <div class="profile">
-  <a href="images/profile.jpg" target="_blank">
-    <img src="images/profile.jpg" alt="John Doe" class="profile-image">
+  <a href="images/profile.png" target="_blank">
+    <img src="images/profile.png" alt="John Doe" class="profile-image">
   </a>
 </div>
 
