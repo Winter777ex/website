@@ -3,14 +3,14 @@ layout: default
 title: My Portfolio
 ---
 
-![title](Images/example.jpg)
-# Welcome to My Portfolio
+![Image](Images/bg.webp)
+# Welcome to My Webpage
 
 ## About Me
-I'm a developer passionate about building innovative projects.
+Hello, welcome to my page. I am Eric Su, current high school student. Below are my projects, enjoy your stay!
 
 ## Projects
-- **Project One:** A description of the project and its features.
+- **[Three JS](/ThreeJS.md):** A description of the project and its features.
 - **Project Two:** Another project description with a link to more details.
 
 ## Contact
