@@ -10,7 +10,7 @@ title: Home
 Hello, welcome to my page. I am Eric Su, current high school student. Below are my projects, enjoy your stay!
 
 ## Projects
-- **[Three JS](website/threeJS.html):** A description of the project and its features.
+- **[Three JS](/threeJS.html):** A description of the project and its features.
 - **Project Two:** Another project description with a link to more details.
 
 ## Contact
