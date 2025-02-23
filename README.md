@@ -1,10 +1,13 @@
-# 👋 Welcome to My Portfolio
+# My Portfolio
 
-Hi, I'm **[Your Name]**, a creative [Your Profession/Title]. Explore my projects, digital art, and skills.
+This repository contains the source code for my personal portfolio website, hosted on GitHub Pages.
 
-![Art Highlight](assets/highlight.jpg)
+## How to Use
 
-- [About Me](about.md)
-- [Projects](projects.md)
-- [Art Gallery](art.md)
-- [Contact](contact.md)
+- Clone the repository.
+- Open `index.html` in your browser to view the portfolio locally.
+- Customize the content and styles to match your personal brand.
+
+## Deployment
+
+This site is automatically deployed on GitHub Pages. For more details, see the [GitHub Pages Documentation](https://pages.github.com/).
